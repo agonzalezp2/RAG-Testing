@@ -1,3 +1,5 @@
+This code was developed as part of the AI Solution Architect delivered by ELVTR
+
 # I. Installing the Capstone Rag Application
 This brief guide is for installing the `capstone_rag.py` application. 
 This process will also install the `rag_test_driver.py` application.
