@@ -156,5 +156,3 @@ There should not be any configuration failures, unless
 "I am self-employed can I expense dinners with clients?", has not been changed.
 
 Once you have the tests running with repeated test runs using `promptfoo eval`, you have completed the system test process.
-
-Well done!!
